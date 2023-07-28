@@ -7,7 +7,7 @@
 
 
 ## 📓 About 
-The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate</a> is 10 courses series of online programs that provide the tools and skills to succeed in data science, including Python, SQL, databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining. 
+The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate</a> is 10 courses of online programs that provide the tools and skills to succeed in data science, including Python, SQL, databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining. 
 
 
 ## 📖 Courses 
