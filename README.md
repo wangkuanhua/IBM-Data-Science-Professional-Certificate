@@ -13,16 +13,16 @@ This repository contains documentation and resources used to complete the certif
 
 
 ## 📑 Courses
-✔️ [01. What is Data Science?](01.%20What%20is%20Data%20Science/)
-- :white_check_mark: [02. Tools for Data Science](02.%20Tools%20for%20Data%20Science/)
-- :white_check_mark: [03. Data Science Methodology](03.%20Data%20Science%20Methodology)
-- :white_check_mark: [04. Python for Data Science, AI & Development](04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/)
-- :white_check_mark: [05. Python Project for Data Science](05.%20Python%20Project%20for%20Data%20Science/)
-- :white_check_mark: [06. Databases and SQL for Data Science with Python](06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/)
-- :white_check_mark: [07. Data Analysis with Python](07.%20Data%20Analysis%20with%20Python/)
-- :white_check_mark: [08. Data Visualization with Python](08.%20Data%20Visualization%20with%20Python/)
-- :white_check_mark: [09. Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)
-- :white_check_mark: [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
+✔️ [01. What is Data Science?](01.%20What%20is%20Data%20Science/)  <br> 
+✔️ [02. Tools for Data Science](02.%20Tools%20for%20Data%20Science/) <br> 
+✔️ [03. Data Science Methodology](03.%20Data%20Science%20Methodology)  <br> 
+✔️ [04. Python for Data Science, AI & Development](04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/)  <br> 
+✔️ [05. Python Project for Data Science](05.%20Python%20Project%20for%20Data%20Science/)  <br> 
+✔️ [06. Databases and SQL for Data Science with Python](06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/)  <br> 
+✔️ [07. Data Analysis with Python](07.%20Data%20Analysis%20with%20Python/)  <br> 
+✔️ [08. Data Visualization with Python](08.%20Data%20Visualization%20with%20Python/)  <br> 
+✔️ [09. Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)  <br> 
+✔️ [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)  <br> 
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
