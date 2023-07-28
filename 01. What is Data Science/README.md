@@ -3,8 +3,8 @@
 To verify the certificate, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/970e6e82c30dde16533684bc2af55d90"><img src="https://github.com/wangkuanhua/image/blob/main/What%20is%20Data%20Science.png" height="430"></a>
-  <a href="https://www.credly.com/badges/10fffe90-a6fb-4582-9cf0-b434fbe78ae2"><img src="https://github.com/wangkuanhua/image/blob/main/Cognitive_Class_-_What_is_Data_Science.png" height="430"></a>
+  <a href="https://coursera.org/share/970e6e82c30dde16533684bc2af55d90"><img src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/01.%20What%20is%20Data%20Science/Certificate-What_is_Data_Science.png" height="430"></a>
+  <a href="https://www.credly.com/badges/10fffe90-a6fb-4582-9cf0-b434fbe78ae2"><img src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/01.%20What%20is%20Data%20Science/Badge-What_is_Data_Science.png" height="430"></a>
 </p>
 
 
