@@ -1,13 +1,13 @@
 # IBM-Data-Science-Professional-Certificate
 
 <p align="center">
- <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/777935cf-6da2-4673-8545-7f8d6ea43410" title="IBM logo" alt = "IBM logo"  height="200">
+ <img src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/IBM.png" title="IBM logo" alt = "IBM logo"  height="200">
 </p>
 
 
 
 ## 📓 About 
-The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate</a> is 10 course series of online programs that provide the tools and skills to succeed in data science, including Python, SQL, databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining. 
+The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate</a> is 10 courses series of online programs that provide the tools and skills to succeed in data science, including Python, SQL, databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining. 
 
 
 ## 📖 Courses 
@@ -24,22 +24,22 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
 
 ## 🧰 Tools 
   <p align="left">
-  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/2d32ee72-3f73-413d-b343-89727f1cc596" title="Python" height="50">
-  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/8c907cf1-604d-4b01-9187-f8707d655203" title="Jupyter" height="50">
-  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/7cefdcad-6b37-49fe-b859-29d132bd03c7" title="GitHub" height="50">
-  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/636cbf34-9ea8-42dd-9c8a-f9ba5d217888" title="IBM Watson Studio" height="50">
+  <img src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/Python.png" title="Python" height="50">
+  <img src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/jupyter.png" title="Jupyter" height="50">
+  <img src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/github.png" title="GitHub" height="50">
+  <img src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/watson.png" title="IBM Watson Studio" height="50">
 </p>
 
 
 ## 📚Python Libraries
 <p align="left">
-  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/95b71615-a363-4531-afaf-9eab2122c848" title="Pandas" height="35">
-  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/eed70126-5be3-49de-aa72-3e0a57c99445" title="NumPy" height="35">
-  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/3888d53c-946a-400f-842a-d4f44f701aaf" title="Matplotlib" height="35">
-  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/fc174b22-b460-4d85-9f3a-f9bb81a462f6" title="Seaborn" height="35">
-  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/a9826e5a-6ea0-4311-b111-aa066d9325ba" title="Folium" height="35">
-  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/4ffe1908-fc4e-4f31-99a7-cadaa813780f" title="Scikit-learn" height="35">
-  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/f4431178-c3f9-4fd4-98bf-440c979e04b4" title="ScipPy" height="35"> <br>
+  <img  src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/Pandas.png" title="Pandas" height="35">
+  <img  src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/NumPy.png" title="NumPy" height="35">
+  <img  src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/Matplotlib.png" title="Matplotlib" height="35">
+  <img  src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/seaborn.svg" title="Seaborn" height="35">
+  <img  src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/Folium.png" title="Folium" height="35">
+  <img  src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/scikit-learn.png" title="Scikit-learn" height="35">
+  <img  src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Logo/scipy.png" title="ScipPy" height="35"> <br>
 </p>
 
 
