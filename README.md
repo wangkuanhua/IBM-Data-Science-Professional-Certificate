@@ -30,7 +30,6 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
   <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/636cbf34-9ea8-42dd-9c8a-f9ba5d217888" title="IBM Watson Studio" height="75">
 </p>
 
-![Octicons-mark-github svg](https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/7cefdcad-6b37-49fe-b859-29d132bd03c7)
 
 ## 📚Python Libraries
 <p align="left">
