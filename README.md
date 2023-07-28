@@ -50,7 +50,7 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
 ✔️ [Chicago Census, Crime, and School Data Analysis using SQL](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/)  <br> 
 ✔️ [House Price Predictions](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Predictions.ipynb)  <br> 
 ✔️ [US Domestic Airline Flights Performance Dashboard](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/Final%20Assignment)  <br> 
-✔️ [Best Classifier Model](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb)
+✔️ [Best Classifier Model](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb) <br> 
 ✔️ [Predicting Successful Rocket Landings](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)  <br> 
 ✔️ [Dashboard and Interactive Map](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/04.%20Interactive%20Visual%20Analytics)  <br> 
 
