@@ -13,7 +13,7 @@ This repository contains documentation and resources used to complete the certif
 
 
 ## 📑 Courses
-- :white_check_mark: [01. What is Data Science?](01.%20What%20is%20Data%20Science/)
+✔️ [01. What is Data Science?](01.%20What%20is%20Data%20Science/)
 - :white_check_mark: [02. Tools for Data Science](02.%20Tools%20for%20Data%20Science/)
 - :white_check_mark: [03. Data Science Methodology](03.%20Data%20Science%20Methodology)
 - :white_check_mark: [04. Python for Data Science, AI & Development](04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/)
