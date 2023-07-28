@@ -43,8 +43,6 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
 
 
 
-<img width="1028" alt="Folium" src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/a9826e5a-6ea0-4311-b111-aa066d9325ba">
-
 
 ## 📂 Projects
 - [Extracting and Visualizing Stock Data](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
