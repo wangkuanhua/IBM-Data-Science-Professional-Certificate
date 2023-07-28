@@ -1,10 +1,10 @@
 # Python for Data Science, AI & Development
 
 ## 📑 Guideline
-- Master the most up-to-date practical skills and knowledge that data scientists use in their daily roles
-- Learn the tools, languages, and libraries used by professional data scientists, including Python and SQL
-- Import and clean data sets, analyze and visualize data, and build machine learning models and pipelines
-- Apply your new skills to real-world projects and build a portfolio of data projects that showcase your proficiency to employers
+- Describe Python Basics including Data Types, Expressions, Variables, and Data Structures.
+- Apply Python programming logic using Branching, Loops, Functions, Objects & Classes.
+- Demonstrate proficiency in using Python libraries such as Pandas, Numpy, and Beautiful Soup.
+- Access web data using APIs and web scraping from Python in Jupyter Notebooks.  
 
 ## 🏆 Certificate 
 To verify the certificate, click the images to follow the links.
