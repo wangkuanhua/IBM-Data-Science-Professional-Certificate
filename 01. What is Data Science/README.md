@@ -3,15 +3,11 @@
 To verify the certificate, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/970e6e82c30dde16533684bc2af55d90"><img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/9efbe294-964c-44a9-b1ef-6a053366d34c" height="430"></a>
-  <a href="https://www.credly.com/badges/10fffe90-a6fb-4582-9cf0-b434fbe78ae2"><img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/1b61f5dc-0045-4580-8558-8c277a170431" height="430"></a>
+  <a href="https://coursera.org/share/970e6e82c30dde16533684bc2af55d90"><img src="https://github.com/wangkuanhua/image/blob/main/What%20is%20Data%20Science.png" height="430"></a>
+  <a href="https://www.credly.com/badges/10fffe90-a6fb-4582-9cf0-b434fbe78ae2"><img src="https://github.com/wangkuanhua/image/blob/main/Cognitive_Class_-_What_is_Data_Science.png" height="430"></a>
 </p>
-https://coursera.org/share/970e6e82c30dde16533684bc2af55d90
 
-<p align="middle">
-  <a href="https://coursera.org/share/970e6e82c30dde16533684bc2af55d90"><img src="https://user-images.githubusercontent.com/84391594/152700811-aaa5b9fc-9b4a-4eda-989d-8402c3dcf741.png" height="430"></a>
-  <a href="https://www.credly.com/badges/ef824c0d-c158-4cd9-b5ec-d1fa5c400e65/public_url"><img src="https://user-images.githubusercontent.com/84391594/152700877-0ff69fb5-e8bd-4d45-a743-b74e0d3bdd71.png" height="430"></a>
-</p>
+
 
 
 ## 📑 Guideline
