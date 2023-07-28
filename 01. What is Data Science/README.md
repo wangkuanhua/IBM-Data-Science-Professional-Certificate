@@ -1,4 +1,4 @@
-# Course Syllabus
+# What is Data Science?
 ## Defining Data Science and What Data Scientists Do
 - Defining Data Science    
 - What is Data Science?
@@ -48,3 +48,10 @@
 - The Report Structure
 - Quiz: The Report Structure
 - Final Assignment
+## 🏆 Certificates 
+To verify the certificates, click the images to follow the links.
+
+<p align="middle">
+  <a href="https://coursera.org/share/970e6e82c30dde16533684bc2af55d90" height="430"></a>
+  <a href="https://www.credly.com/badges/10fffe90-a6fb-4582-9cf0-b434fbe78ae2"><img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/5ebb93b5-8c89-4d45-a85e-bd9d6df9cd68" height="430"></a>
+</p>
