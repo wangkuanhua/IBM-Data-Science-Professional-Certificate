@@ -6,10 +6,7 @@
 
 
 ## 📓 About 
-The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> consists of 10 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. 
-
-This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.
-
+The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> consists of 10 online programs that provide the tools and skills to succeed in Python, SQL, data science, including databases, data visualization, statistical analysis, predictive modeling, machine learning algorithms, and data mining. 
 
 
 ## 📖 Courses 
@@ -32,7 +29,7 @@ The following tools were used to complete this certification: <br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705324-68f777a0-3875-4b65-ae96-646643284541.png" height="75">
   <img src="https://user-images.githubusercontent.com/84391594/152705298-bb170d32-3dd0-4ad4-8221-8b7b029116b4.png" height="75">
 </p>
-(Python, Jupyter, GitHub, IBM Watson Studio, IBM Cloud Pak)
+(Python, Jupyter, GitHub, IBM Watson Studio)
 
 ## 📚 Libraries
 The following Python libraries were used throughout the certification: <br> 
