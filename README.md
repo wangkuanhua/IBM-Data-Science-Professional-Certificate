@@ -23,10 +23,10 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
 
 ## 🧰 Tools 
   <p align="left">
-  <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" title="Python" height="75">
-  <img src="https://user-images.githubusercontent.com/84391594/152705271-083f8784-b3c9-4065-9733-ea3fa8ad5a7a.png" title="Jupyter" height="75">
-  <img src="https://user-images.githubusercontent.com/84391594/152705273-adffe1bf-b509-44d0-b3ac-671cce5071df.svg" title="GitHub" height="75">
-  <img src="https://user-images.githubusercontent.com/84391594/152705324-68f777a0-3875-4b65-ae96-646643284541.png" title="IBM Watson Studio" height="75">
+  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/2d32ee72-3f73-413d-b343-89727f1cc596" title="Python" height="75">
+  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/8c907cf1-604d-4b01-9187-f8707d655203" title="Jupyter" height="75">
+  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/a9826e5a-6ea0-4311-b111-aa066d9325ba" title="GitHub" height="75">
+  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/636cbf34-9ea8-42dd-9c8a-f9ba5d217888" title="IBM Watson Studio" height="75">
 </p>
 
 
@@ -37,10 +37,11 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
   <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/3888d53c-946a-400f-842a-d4f44f701aaf" title="Matplotlib" height="35">
   <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/fc174b22-b460-4d85-9f3a-f9bb81a462f6" title="Seaborn" height="35">
   <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/a9826e5a-6ea0-4311-b111-aa066d9325ba" title="Folium" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706211-7966848a-a2e1-4c4a-bc08-594a4ca6ff07.png" title="ipython-sql" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706214-d018bc5e-1477-4de2-94d7-5c0886e0477d.png" title="Scikit-learn" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" title="ScipPy" height="35"> <br>
+  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/4ffe1908-fc4e-4f31-99a7-cadaa813780f" title="Scikit-learn" height="35">
+  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/f4431178-c3f9-4fd4-98bf-440c979e04b4" title="ScipPy" height="35"> <br>
 </p>
+
+
 
 <img width="1028" alt="Folium" src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/a9826e5a-6ea0-4311-b111-aa066d9325ba">
 
