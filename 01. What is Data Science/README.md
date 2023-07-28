@@ -1,4 +1,11 @@
 # What is Data Science?
+## 🏆 Certificate 
+To verify the certificate, click the images to follow the links.
+
+<p align="middle">
+  <a href="https://coursera.org/share/970e6e82c30dde16533684bc2af55d90"><img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/9efbe294-964c-44a9-b1ef-6a053366d34c" height="430"></a>
+  <a href="https://www.credly.com/badges/10fffe90-a6fb-4582-9cf0-b434fbe78ae2"><img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/1b61f5dc-0045-4580-8558-8c277a170431" height="430"></a>
+</p>
 ## 📑 Guideline
 ### Defining Data Science and What Data Scientists Do
 - Defining Data Science    
@@ -51,10 +58,4 @@
 - Final Assignment
 
 
-## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
 
-<p align="middle">
-  <a href="https://coursera.org/share/970e6e82c30dde16533684bc2af55d90"><img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/9efbe294-964c-44a9-b1ef-6a053366d34c" height="430"></a>
-  <a href="https://www.credly.com/badges/10fffe90-a6fb-4582-9cf0-b434fbe78ae2"><img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/1b61f5dc-0045-4580-8558-8c277a170431" height="430"></a>
-</p>
