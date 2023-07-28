@@ -26,7 +26,7 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
   <p align="left">
   <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/2d32ee72-3f73-413d-b343-89727f1cc596" title="Python" height="75">
   <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/8c907cf1-604d-4b01-9187-f8707d655203" title="Jupyter" height="75">
-  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/5b87d51a-879c-4317-8704-7205cdd3f641" title="GitHub" height="75">
+  <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/5175078f-f9d5-4bc4-96fa-9bd8a2bd6fb1" title="GitHub" height="75">
   <img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/636cbf34-9ea8-42dd-9c8a-f9ba5d217888" title="IBM Watson Studio" height="75">
 </p>
 
