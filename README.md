@@ -32,15 +32,18 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
 
 ## 📚Python Libraries
 <p align="left">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706130-5577011e-ecb3-47aa-af73-f6bd1bda05bc.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706132-5939da7e-7d1e-43b8-9c46-2d3fe5198dda.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706135-85cdd35e-922a-414a-a198-c670fbf8fb25.svg" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706148-36f27f03-1967-45d1-82d8-f6c149c6f21c.svg" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706211-7966848a-a2e1-4c4a-bc08-594a4ca6ff07.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706214-d018bc5e-1477-4de2-94d7-5c0886e0477d.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
+  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/95b71615-a363-4531-afaf-9eab2122c848" title="Pandas" height="35">
+  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/eed70126-5be3-49de-aa72-3e0a57c99445" title="NumPy" height="35">
+  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/3888d53c-946a-400f-842a-d4f44f701aaf" title="Matplotlib" height="35">
+  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/fc174b22-b460-4d85-9f3a-f9bb81a462f6" title="Seaborn" height="35">
+  <img  src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/a9826e5a-6ea0-4311-b111-aa066d9325ba" title="Folium" height="35">
+  <img  src="https://user-images.githubusercontent.com/84391594/152706211-7966848a-a2e1-4c4a-bc08-594a4ca6ff07.png" title="ipython-sql" height="35">
+  <img  src="https://user-images.githubusercontent.com/84391594/152706214-d018bc5e-1477-4de2-94d7-5c0886e0477d.png" title="Scikit-learn" height="35">
+  <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" title="ScipPy" height="35"> <br>
 </p>
+
+<img width="1028" alt="Folium" src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/a9826e5a-6ea0-4311-b111-aa066d9325ba">
+
 
 ## 📂 Projects
 - [Extracting and Visualizing Stock Data](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
