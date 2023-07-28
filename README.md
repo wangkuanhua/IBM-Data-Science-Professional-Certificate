@@ -1,9 +1,8 @@
 # IBM-Data-Science-Professional-Certificate
-wangkuanhua/IBM-Data-Science-Professional-Certificate
 
-
-
-<img src="https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/assets/56338617/5dc45a9b-c9d6-478a-9cae-787ff0236f26" alt="Smiley face" height="300" width="600">
+<p align="center">
+ <img src="https://raw.githubusercontent.com/Thomas-George-T/IBM-Data-Science-Professional-Certification/master/ibm.svg" title="IBM logo" alt = "IBM logo" />
+</p>
 
 
 
