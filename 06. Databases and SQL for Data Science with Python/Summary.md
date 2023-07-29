@@ -1,6 +1,6 @@
 # Summary & Highlights
-Congratulations! You have completed this lesson. At this point in the course, you know: 
-Week1
+
+## Week1
 - You can use Data Manipulation Language (DML) statements to read and modify data. 
 - The search condition of the WHERE clause uses a predicate to refine the search. 
 - COUNT, DISTINCT, and LIMIT are expressions that are used with SELECT statements. 
