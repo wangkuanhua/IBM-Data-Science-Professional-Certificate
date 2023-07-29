@@ -1,10 +1,10 @@
 # Applied Data Science Capstone
 
 ## 📑 Guideline
-✔️Demonstrate proficiency in data science and machine learning techniques using a real-world data set and prepare a report for stakeholders   
-✔️Apply your skills to perform data collection, data wrangling, exploratory data analysis, data visualization model development, and model evaluation
-✔️Write Python code to create machine learning models including support vector machines, decision tree classifiers, and k-nearest neighbors  
-✔️Evaluate the results of machine learning models for predictive analysis, compare their strengths and weaknesses and identify the optimal model   
+✔️Demonstrate proficiency in data science and machine learning techniques using a real-world data set and prepare a report for stakeholders  </br> 
+✔️Apply your skills to perform data collection, data wrangling, exploratory data analysis, data visualization model development, and model evaluation </br> 
+✔️Write Python code to create machine learning models including support vector machines, decision tree classifiers, and k-nearest neighbors   </br> 
+✔️Evaluate the results of machine learning models for predictive analysis, compare their strengths and weaknesses and identify the optimal model    </br> 
 
 ## 🏆 Certificate 
 To verify the certificate, click the images to follow the links.
