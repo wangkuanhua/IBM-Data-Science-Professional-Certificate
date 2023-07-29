@@ -28,12 +28,12 @@
 - The DB_API  connect constructor creates a connection to the database and returns a Connection Object, which is then used by the various connection methods.
 
 - The connection methods are:
-* The cursor() method, which returns a new cursor object using the connection.
-* The commit() method, which is used to commit any pending transaction to the database.
-* The rollback() method, which causes the database to roll-back to the start of any pending transaction.
-* The close() method, which is used to close a database connection. 
+The cursor() method, which returns a new cursor object using the connection.</br>
+The commit() method, which is used to commit any pending transaction to the database.</br>
+The rollback() method, which causes the database to roll-back to the start of any pending transaction.</br>
+The close() method, which is used to close a database connection. </br>
 
 - You can use SQL Magic commands to execute queries more easily from Jupyter Notebooks.
-* Magic commands have the general format %sql select * from tablename.
-* Cell magics start with a double %% (percent) sign and apply to the entire cell.
-* Line magics start with a single % (percent) sign and apply to a particular line in a cell.
+Magic commands have the general format %sql select * from tablename.</br>
+ Cell magics start with a double %% (percent) sign and apply to the entire cell.</br>
+Line magics start with a single % (percent) sign and apply to a particular line in a cell.</br>
