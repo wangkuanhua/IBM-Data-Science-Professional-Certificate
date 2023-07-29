@@ -1,10 +1,10 @@
 # Data Science Methodology
 
 ## 📑 Guideline
-- Describe what a methodology is and why data scientists need a methodology.
-- Apply the six stages in the Cross-Industry Process for Data Mining (CRISP-DM) methodology to analyze a case study.
-- Determine an appropriate analytic model including predictive, descriptive, and classification models to analyze a case study.
-- Determine appropriate sources of data for your data science project.
+✔️  Describe what a methodology is and why data scientists need a methodology.</br>
+✔️  Apply the six stages in the Cross-Industry Process for Data Mining (CRISP-DM) methodology to analyze a case study.</br>
+✔️  Determine an appropriate analytic model including predictive, descriptive, and classification models to analyze a case study.</br>
+✔️  Determine appropriate sources of data for your data science project.</br>
 
 ## 🏆 Certificate 
 To verify the certificate, click the images to follow the links.
