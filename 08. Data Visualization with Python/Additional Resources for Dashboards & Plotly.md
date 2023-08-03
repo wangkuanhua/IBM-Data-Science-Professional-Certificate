@@ -6,14 +6,13 @@ For more information about Dashboards, visit the following links:
 
 
 # Additional Resources for Plotly
-To learn more about using Plotly to create dashboards, explore
-
+To learn more about using Plotly to create dashboards, explore </br>
 [Plotly python](https://plotly.com/python/getting-started/)</br>
 [Plotly graph objects with example](https://plotly.com/python/graph-objects/)</br>
 [Plotly express](https://plotly.com/python/plotly-express/)</br>
 [API reference](https://plotly.com/python-api-reference/)</br>
 
-Here are additional useful resources:
+Here are additional useful resources:</br>
 [Plotly cheatsheet](https://images.plot.ly/plotly-documentation/images/plotly_js_cheat_sheet.pdf)</br>
 [Plotly community](https://community.plotly.com/c/plotly-python/5)</br>
 [Related blogs](https://plotlygraphs.medium.com/)</br>
