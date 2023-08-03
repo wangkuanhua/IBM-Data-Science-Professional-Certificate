@@ -1,5 +1,5 @@
 # Summary: Basic and Specialized Visualization Tools
-- Congratulations! You have completed this module. At this point in the course, you know: 
+Congratulations! You have completed this module. At this point in the course, you know: 
 - A pie chart is a circular statistical graphic, divided into segments, to illustrate numerical proportion.
 - The process of creating a pie chart involves importing Matplotlib to represent a large set of data over a period of time.
 - A box plot is a way of statistically representing given data distribution through five main dimensions.
