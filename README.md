@@ -49,10 +49,7 @@ The <a href="https://www.coursera.org/professional-certificates/ibm-data-science
 ✔️ [Extracting and Visualizing Stock Data](https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment%20(Project-Extracting%20and%20Visualizing%20Stock%20Data).ipynb) <br> 
 ✔️ [Data Analysis using SQL- Chicago Census, Crime, and School ](https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/PeerAssign-v5(Project-Data%20Analysis%20Chicago%20Census%2C%20Crime%2C%20and%20School%20using%20SQL).ipynb)  <br> 
 ✔️ [Predict House Price](https://github.com/wangkuanhua/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/House_Sales_in_King_Count_USA.ipynb)  <br> 
-✔️ [US Domestic Airline Flights Performance Dashboard](網址)  <br> 
-✔️ [Best Classifier Model](網址) <br> 
-✔️ [Predicting Successful Rocket Landings](網址)  <br> 
-✔️ [Dashboard and Interactive Map](網址)  <br> 
+
 
 
 ## 🏆 Certificates 
