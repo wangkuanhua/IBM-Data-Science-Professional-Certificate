@@ -57,7 +57,7 @@ To verify the certificates, click the images to follow the links.
 
 <p align="middle">
   <a href="https://coursera.org/share/55e85b63e8cf383d4554b0e15c325f75"><img src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/Certificatee%20-%20IBM%20Data%20Science.png" height="400"></a>
-  <a href="網址"><img src="圖片" height="400"></a>
+  
 
 
 
