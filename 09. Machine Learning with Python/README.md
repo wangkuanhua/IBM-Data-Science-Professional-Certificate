@@ -14,4 +14,3 @@ To verify the certificate, click the images to follow the links.
   <a href="https://www.credly.com/badges/27ef6c29-300b-4b4c-9dc2-72e8860515d7"><img src="https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/09.%20Machine%20Learning%20with%20Python/Badge%20-%20Machine_Learning_with_Python.png" height="430"></a>
 </p>
 
-https://github.com/wangkuanhua/Image/blob/main/IBM-Data-Science-Professional-Certificate/09.%20Machine%20Learning%20with%20Python/Certificate%20-%20Machine_Learning_with_Python.png
